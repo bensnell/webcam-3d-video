@@ -1,0 +1,11 @@
+<group>
+	<General_Controls>
+		<Brightness_Thresh>2.67857</Brightness_Thresh>
+	<Lightness_Thresh>1.04847</Lightness_Thresh>
+	<Distance_Mult>53.5714</Distance_Mult>
+		<Point_Spacing>5.10204</Point_Spacing>
+		<Point_Size>1</Point_Size>
+	<Debug_Video>1</Debug_Video>
+	</General_Controls>
+<group/>
+</group>
